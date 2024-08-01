@@ -13,6 +13,9 @@ let theme = createTheme({
         text: {
             primary: themeStyle.mode === 'dark' ? '#fff' : '#02001d',
             secondary: themeStyle.mode === 'dark' ? '#979797' : '#374151'
+        },
+        background: {
+            default: themeStyle.mode === 'dark' ? '#0000' : '#fbf6ff'
         }
     },
     typography: {
