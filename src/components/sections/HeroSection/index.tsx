@@ -26,7 +26,7 @@ export const HeroSection: React.FC<Props> = (props) => {
                 )}
                 <MuiGrid item>
                     <MuiTypography variant="h4" align="center" sx={{ mt: 2 }}>
-                        hi! i'm aiden.
+                        hi! i&apos;m aiden.
                     </MuiTypography>
                 </MuiGrid>
             </MuiGrid>
